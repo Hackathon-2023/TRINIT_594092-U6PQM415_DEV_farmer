@@ -27,10 +27,10 @@ function NavBar() {
               <a href="#">About</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="https://hackathon-2023.github.io/TRINIT_594092-U6PQM415_DEV/">Community Chat</a>
             </li>
             <li>
-              <a href="#">Enthusiast</a>
+              <a href="https://hackathon-2023.github.io/TRINIT_594092-U6PQM415_DEV/index-enthusiast.html">Enthusiast</a>
             </li>
           </ul>
         </div>
